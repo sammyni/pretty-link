@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "formik": "^1.5.8",
+    "validator": "^11.1.0",
+    "yup": "^0.27.0"
+  }
+}
